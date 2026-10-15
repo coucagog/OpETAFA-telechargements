@@ -14,6 +14,7 @@ L'écran et le relais tournent sur la TV, sans PC ; le téléphone s'y relie par
    télécharger (navigateur, gestionnaire de fichiers, ou une application de téléchargement comme
    *Downloader*).
 2. Télécharger le fichier `.apk` depuis la page ci-dessus, l'ouvrir, installer.
+   Avec *Downloader*, il suffit de taper le lien court **`da.gd/opetafa`** (version 0.1.0).
 3. Lancer OpETAFA, relier un téléphone par le QR, puis calibrer l'écran.
 
 Les mises à jour s'installent par-dessus, le profil de la salle (code, calibration) est gardé.

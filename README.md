@@ -6,6 +6,8 @@ ailleurs.
 
 **Dernière version : [page des téléchargements](../../releases/latest)**
 
+Présentation d'OpETAFA en diapositives : [`presentation.html`](presentation.html) (à télécharger, puis ouvrir dans un navigateur).
+
 ## Application TV Android — `OpETAFA-<version>-tv.apk`
 
 L'écran et le relais tournent sur la TV, sans PC ; le téléphone s'y relie par le QR affiché.

@@ -25,6 +25,8 @@ L'application est signée par la clé d'OpETAFA ; empreinte SHA-256 du certifica
 
 Décompresser l'archive et suivre le guide d'installation qu'elle contient.
 
+Lien court pour télécharger l'archive : **`da.gd/opetafa-wi`** (version 0.1.0).
+
 ## Licence
 
 MIT. Signature : ETAFA by MLS.
